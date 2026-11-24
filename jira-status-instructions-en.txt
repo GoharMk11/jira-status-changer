@@ -1,0 +1,9 @@
+Jira Status Changer — Installation and Use
+
+1. Extract jira-status.zip.
+2. In Chrome, open chrome://extensions and turn on Developer mode.
+3. Click Load unpacked and select the extracted jira-status folder that contains manifest.json.
+4. Open a Jira issue or project page. In Chrome's Extensions menu, click Jira Status Changer.
+5. Enter the issue keys, for example PROJ-123, PROJ-124. Click «Բեռնել ստատուսները» (Load statuses), select the new status, then click «Փոխել ստատուսները» (Change statuses).
+
+The extension shows the result for each issue.
